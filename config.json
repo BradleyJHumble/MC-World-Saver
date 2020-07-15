@@ -1,6 +1,8 @@
 {
   "userName": "Example",
+  "userEmail": "Example@example.com"
   "password": "Example",
-  "repoName": "MC-WorldName-HERE",
-  "description" : "Saved MC World Files"
+  "repoWorldName": "MC-WorldName-HERE",
+  "description" : "Saved MC World Files",
+  "worldDirectoryLocation": "/path/to/your/world/from/this/program"
 }
